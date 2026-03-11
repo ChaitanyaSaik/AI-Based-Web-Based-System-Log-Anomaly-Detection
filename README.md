@@ -273,6 +273,4 @@ Large-scale distributed log processing
 
 This project is released under the MIT License.
 
-)
 
-output_path
